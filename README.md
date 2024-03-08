@@ -1,1 +1,1 @@
-# CGM-Transformer
+# MG-Transformer
