@@ -1,5 +1,7 @@
 # MG-Transformer
-
+<p align="center">
+  <img src="images/MG-Transformer.png" alt="MG-Transformer" width="800"/>
+</p>
 
 ## Installation and Dependencies
 Create the `m2` conda environment using the `environment.yml` file:
@@ -10,6 +12,7 @@ conda activate m2
 ## Feature Extraction
 
 
+
 ## Train
 ```
 python train.py
@@ -18,6 +21,7 @@ python train.py
 ## Evaluate
 ```
 python test.py
+```
 
 
 ## Reference:
