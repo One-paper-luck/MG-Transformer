@@ -10,8 +10,9 @@ conda env create -f environment.yml
 conda activate m2
 ```
 ## Feature Extraction
-
-
+Region features:
+CLIP image embedding:
+Group mask matrix:
 
 ## Train
 ```
