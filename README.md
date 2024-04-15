@@ -10,9 +10,10 @@ conda env create -f environment.yml
 conda activate m2
 ```
 ## Feature Extraction
-Region features:
-CLIP image embedding:
-Group mask matrix:
+Extract Region features with `./feature_pro/pre_region_feature.py`
+CLIP image embedding: `./feature_pro/pre_CLIP_feature.py`
+Group mask matrix: `./feature_pro/split_group.py`
+
 
 ## Train
 ```
