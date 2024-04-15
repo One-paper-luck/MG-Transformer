@@ -26,6 +26,21 @@ python test.py
 ```
 
 
+# Citation:
+```
+@ARTICLE{10298250,
+  author={Meng, Lingwu and Wang, Jing and Meng, Ran and Yang, Yang and Xiao, Liang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A Multiscale Grouping Transformer with CLIP Latents for Remote Sensing Image Captioning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1109/TGRS.2024.3385500}}
+```
+
+
+
 ## Reference:
 1. https://github.com/tylin/coco-caption
 2. https://github.com/aimagelab/meshed-memory-transformer
