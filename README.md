@@ -44,4 +44,3 @@ python test.py
 ## Reference:
 1. https://github.com/tylin/coco-caption
 2. https://github.com/aimagelab/meshed-memory-transformer
-3. https://github.com/One-paper-luck/PKG-Transformer
