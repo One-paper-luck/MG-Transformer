@@ -11,8 +11,8 @@ conda activate m2
 ```
 ## Feature Extraction
 Extract Region features with `./feature_pro/pre_region_feature.py`  
-CLIP image embedding: `./feature_pro/pre_CLIP_feature.py`  
-Group mask matrix: `./feature_pro/split_group.py`
+Extract image embedding: `./feature_pro/pre_CLIP_feature.py`  
+Extract Group mask matrix: `./feature_pro/split_group.py`
 
 
 ## Train
