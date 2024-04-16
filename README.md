@@ -9,7 +9,11 @@ Create the `m2` conda environment using the `environment.yml` file:
 conda env create -f environment.yml
 conda activate m2
 ```
-## Feature Extraction
+## Data preparation
+For the evaluation metrics, Please download the [evaluation.zip](https://pan.baidu.com/s/13ZfH-CMYbW3RsW0-RX7KKQ)(BaiduPan code:wuiu) and extract it to `./evaluation`.
+
+
+For Feature Extraction:  
 Region feature: `./feature_pro/pre_region_feature.py`  
 CLIP image embedding: `./feature_pro/pre_CLIP_feature.py`  
 Group mask matrix: `./feature_pro/split_group.py`
