@@ -37,9 +37,9 @@ python test.py
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={A Multiscale Grouping Transformer with CLIP Latents for Remote Sensing Image Captioning}, 
   year={2024},
-  volume={},
-  number={},
-  pages={},
+  volume={62},
+  number={4703515},
+  pages={1-15},
   doi={10.1109/TGRS.2024.3385500}}
 ```
 
